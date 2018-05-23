@@ -60,7 +60,7 @@ public class DialogSobre extends javax.swing.JDialog {
 
         jLabel1.setText("SIM Explorer ");
 
-        jLabel2.setText("Beta ");
+        jLabel2.setText("Beta version");
 
         jLabel3.setText("Developed by Gustavo Rabelo");
 

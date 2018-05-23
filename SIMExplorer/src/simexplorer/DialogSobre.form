@@ -72,7 +72,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Beta "/>
+        <Property name="text" type="java.lang.String" value="Beta version"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel3">
