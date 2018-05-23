@@ -76,7 +76,7 @@ public class DialogNumReg extends javax.swing.JDialog {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Escolha o número do registro");
+        setTitle("Choose register number");
         setModal(true);
 
         btnOK.setText("OK");

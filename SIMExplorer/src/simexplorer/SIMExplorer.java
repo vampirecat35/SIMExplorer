@@ -387,7 +387,7 @@ public class SIMExplorer extends javax.swing.JFrame implements APDUSender {
         });
         mnuSIMCard.add(mnuDesconectar);
 
-        mnuCriarRelatorio.setText("Generate UFED like report...");
+        mnuCriarRelatorio.setText("Generate Cellebrite like report...");
         mnuCriarRelatorio.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 mnuCriarRelatorioActionPerformed(evt);

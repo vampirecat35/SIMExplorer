@@ -59,7 +59,7 @@
             </MenuItem>
             <MenuItem class="javax.swing.JMenuItem" name="mnuCriarRelatorio">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Generate UFED like report..."/>
+                <Property name="text" type="java.lang.String" value="Generate Cellebrite like report..."/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mnuCriarRelatorioActionPerformed"/>

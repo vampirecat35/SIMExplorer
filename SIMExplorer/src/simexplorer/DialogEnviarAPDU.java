@@ -69,7 +69,7 @@ public class DialogEnviarAPDU extends javax.swing.JDialog {
         btnFechar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Enviar APDU");
+        setTitle("Send APDU");
         setModal(true);
 
         jLabel1.setText("APDU:");

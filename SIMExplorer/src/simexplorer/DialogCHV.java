@@ -91,7 +91,7 @@ public class DialogCHV extends javax.swing.JDialog {
         rdbCHV2 = new javax.swing.JRadioButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Gerenciar CHV");
+        setTitle("CHV Management");
 
         btnVerifyCHV.setText("Verify CHV");
         btnVerifyCHV.addActionListener(new java.awt.event.ActionListener() {
